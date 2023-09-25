@@ -1,32 +1,22 @@
 export const data = [
   {
     id : 0,
-    titre: "Découvrir l'Art Nouveau : Histoire et Caractéristiques Principales"
-    image:"/img/un"
+    titre: "Découvrir l'Art Nouveau : Histoire et Caractéristiques Principales",
+    image:"/img/1.png",
+    contenu:"This comprehensive article takes readers on a journey through the history and defining characteristics of Art Nouveau. It begins with the movement's origins in the late 19th century, primarily in Europe, and traces its evolution into a prominent artistic and architectural style. The article discusses the distinctive features of Art Nouveau, such as flowing organic lines, floral motifs, and a rejection of historical revivalism. It showcases the works of iconic artists like Alphonse Mucha, Gustav Klimt, and René Lalique, providing insights into their contributions to the movement.",
 
   },
   {
-    id: 2,
-    prenom: 'Bob',
-    nom: 'Martin',
-    date_de_naissance: '1990-07-25',
-    avatar: '/img/2.png',
-    numero_de_telephone: '+33 6 98 76 54 32',
-    adresse_email: 'bob.martin@example.com',
-    description:
-      'Collectionneur de chaussettes dépareillées et champion du monde de chatouilles.',
+    id : 1,
+    titre: "Art Nouveau in Architecture: Elegant and Whimsical Buildings",
+    image:"/img/2.png",
+    contenu:"This article offers a captivating exploration of how Art Nouveau left its indelible mark on architectural design around the world. It highlights famous buildings that exemplify the style, including Antoni Gaudí's Casa Batlló in Barcelona and Victor Horta's Hôtel Tassel in Brussels. Readers will gain a deeper understanding of the unique architectural elements, such as curvilinear facades, stained glass windows, and ornate ironwork, that defined Art Nouveau structures.",
   },
   {
-    id: 3,
-    prenom: 'Caroline',
-    nom: 'Lefebvre',
-    date_de_naissance: '1988-11-18',
-    avatar: '/img/3.png',
-    numero_de_telephone: '+33 6 55 33 22 11',
-    adresse_email: 'caroline.lefebvre@example.com',
-    description:
-      "Éleveuse de licornes et spécialiste en résolution d'énigmes mathématiques impossibles.",
-  },
+    id : 2,
+    titre: "Art Nouveau in Decorative Arts: Refinement in the Details",
+    image:"/img/3.png",
+    contenu:"This article offers a captivating exploration of how Art Nouveau left its indelible mark on architectural design around the world. It highlights famous buildings that exemplify the style, including Antoni Gaudí's Casa Batlló in Barcelona and Victor Horta's Hôtel Tassel in Brussels. Readers will gain a deeper understanding of the unique architectural elements, such as curvilinear facades, stained glass windows, and ornate ironwork, that defined Art Nouveau structures.",
   {
     id: 4,
     prenom: 'David',
