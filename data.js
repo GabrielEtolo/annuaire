@@ -23,16 +23,10 @@ export const data = [
     image:"/img/4.png",
     contenu:"In this insightful article, we examine the fascinating role of women in the Art Nouveau movement. It goes beyond the traditional narrative of women as muses and explores their active participation as artists, designers, and advocates for social change. The article discusses the representation of the Femme Fatale and the New Woman in Art Nouveau artworks, shedding light on how these images reflected evolving societal norms and expectations.",},
   {
-    id: 5,
-    prenom: 'Eva',
-    nom: 'Dubois',
-    date_de_naissance: '1995-09-30',
-    avatar: '/img/5.png',
-    numero_de_telephone: '+33 6 77 22 11 33',
-    adresse_email: 'eva.dubois@example.com',
-    description:
-      'Aventurière spatiale à la recherche de la planète des bonbons.',
-  },
+    id : 3,
+    titre: "Art Nouveau in the Contemporary World: Influence and Reinvention",
+    image:"/img/5.png",
+    contenu:"This forward-looking article explores how Art Nouveau continues to shape and inspire contemporary art and design. It introduces readers to modern-day artists, architects, and designers who draw inspiration from the movement's aesthetics. The article showcases examples of contemporary works that pay homage to Art Nouveau while pushing the boundaries of creativity and innovation in the 21st century.",},
   {
     id: 6,
     prenom: 'Franck',
